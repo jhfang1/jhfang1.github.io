@@ -15,11 +15,11 @@
     ]
   },
   "interests": [
-    { "name": "Rhythm Games" },
-    { "name": "Running" },
-    { "name": "Going for long walks" },
-    { "name": "Manga" },
-    { "name": "Japanese" }
+    { "name": "Rhythm Games"},
+    { "name": "Running"},
+    { "name": "Going for long walks"},
+    { "name": "Manga"},
+    { "name": "Japanese"}
   ],
   "skills": [
     {
