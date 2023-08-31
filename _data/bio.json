@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Jonathan Fang",
-    "label": "Student",
+    "label": "Shidler Undergraduate",
     "picture": "https://www.dropbox.com/scl/fi/n66eaym3emy249icax1qw/IMG_1451.png?rlkey=cvsxs4rxdc0hm550pm8285ya8&dl=1",
     "email": "jfang710@hawaii.edu",
     "phone": "808-758-9343",
     "website": "https://jhfang1.github.io",
-    "summary": "I am studying for a BBA in MIS and a minor in Japanese at the University of Hawaii. I plan on adding Accounting as another major in the future. I expect to graduate in Fall 2025",
+    "summary": "I am studying for a BBA in MIS and a minor in Japanese at the University of Hawaii. I plan on adding Accounting as another major in the future. I expect to graduate in Fall 2025.",
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jhfang1", "url": "http://github.com/jhfang1" },
@@ -115,3 +115,4 @@
     }
   ]
 }
+
