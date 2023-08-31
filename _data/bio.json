@@ -28,7 +28,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Git/GitHub", "neovim", "Windows" ]
+      "keywords": [ "Git/GitHub", "Windows" ]
     }
   ],
   "education": [
@@ -42,7 +42,7 @@
       ]
     },
     {
-	    "area": "Japanese",
+	    "area": "Japanese (expected Fall, 2025)",
 	    "studyType": "Minor",
 	    "startDate": "2023-01-10",
 	    "endDate": "Present",
