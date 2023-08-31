@@ -1,26 +1,25 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jonathan Fang",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://www.dropbox.com/scl/fi/n66eaym3emy249icax1qw/IMG_1451.png?rlkey=cvsxs4rxdc0hm550pm8285ya8&dl=1",
+    "email": "jfang710@hawaii.edu",
+    "phone": "808-758-9343",
+    "website": "https://jhfang1.github.io",
+    "summary": "I am studying for a BBA in MIS and a minor in Japanese at the University of Hawaii. I plan on adding Accounting as another major in the future. I expect to graduate in Fall 2025",
+    "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "jhfang1", "url": "http://github.com/jhfang1" },
+      { "network": "twitter", "username": "jonzjp", "url": "http://twitter.com/jonzjp" },
+      { "network": "instagram", "username": "jhfang1", "url": "http://instagram.com/jhfang1" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Rhythm Games" },
+    { "name": "Running" },
+    { "name": "Going for long walks" },
+    { "name": "Manga" },
+    { "name": "Japanese" }
   ],
   "skills": [
     {
