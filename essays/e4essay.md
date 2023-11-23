@@ -1,14 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "E1: Technical Essay"
+title: "E4: Progress in Programming Report"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-23
 published: true
 labels:
   - E4
   - Assignment1
-  - Technical Essay
+  - Progress in Programming
+  - Essay
 ---
 
 ## Improvement in Coding
