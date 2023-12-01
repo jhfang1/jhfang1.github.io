@@ -10,7 +10,6 @@
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jhfang1", "url": "http://github.com/jhfang1" },
-      { "network": "twitter", "username": "jonzjp", "url": "http://twitter.com/jonzjp" },
       { "network": "instagram", "username": "jhfang1", "url": "http://instagram.com/jhfang1" }
     ]
   },
