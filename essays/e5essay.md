@@ -1,15 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "E4: Progress in Programming Report"
+title: "E5: Reflecting on Assignment 2 Technical Essay" 
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-05
 published: true
 labels:
   - E5 
   - Assignment2 
-  - Progress in Programming
-  - Essay
+  - Technical Essay
 ---
 
 ## Provide a brief introduction to the assignment along with a link to this page for further details
