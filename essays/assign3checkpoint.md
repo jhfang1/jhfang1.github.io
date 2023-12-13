@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "E5: Reflecting on Assignment 2 Technical Essay" 
+title: "Checkpoint Assignment 3"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-12
-published: false
+published: true
 labels:
   - E6
   - Assignment3 
@@ -13,6 +13,7 @@ labels:
 
 ## Show what each page will look like. The pages do not have to be “functional” but the design should clear. 
 
+Here are what my pages look like, these are going to be based off of the layouts I had in assignmnet2.
 ![Homepage](https://cdn.discordapp.com/attachments/837862215427162122/1184278970078859296/image.png?ex=658b64bd&is=6578efbd&hm=08b9b43c704e26d7f9cb03b313aabd70889915746a720f20d49e172820248e22&)  
 ![Store](https://cdn.discordapp.com/attachments/837862215427162122/1184278970473119794/image.png?ex=658b64bd&is=6578efbd&hm=87579bb50cf5f108ad75fa670136d3ae974dc38ed1cbd5b5ef76028527b6f4f3&) 
 ![Sidebar](https://cdn.discordapp.com/attachments/837862215427162122/1184278970871586957/image.png?ex=658b64bd&is=6578efbd&hm=bea81e522eaac70c0924eb255134e6a6110e35d9f844ad20039766ef399641e0&)
@@ -22,7 +23,7 @@ labels:
 
 ## Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.
 
-For me, it will be a separate page that the user can view and edit.
+For me, it will be a separate page that the user can view and edit the cart. Everytime they push the add to cart button they will be taken to a page where they can view their cart items, along with their items they wanted to add to cart. There is also a button on the sidebar that has a view cart, along with a logout and login feature. In the cart, I plan on making it like amazon's where it is initially a drop down, 1 - 10+, and if the user selects 10+ then a text field will appear in place of the drop down, in where the user is able to type out the amount of quantities they want. If the user wants to remove quantities, they can just type 0 or select zero for the item. If the user wants to add more quantities, there is a back to cart button, which brings them back to the snacks page. If the user selects a quantity that is more than 10, the cart will automatically generate the text box instead of the select input. 
 
 ## Explain specifically how you will use sessions to manage your shopping cart. In particular, what shopping cart data will be stored in the session, what data format will be used (NOT what data type, but the format like with the data format used for your registration data). Use code examples showing what data structures (such as arrays and their objects) you will use to manage the shopping cart data and how they will be used in a session.
 By using sessions, all the data is stored in a json like format, so 
