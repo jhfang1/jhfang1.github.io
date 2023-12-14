@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "Jonathan Fang",
+    "label": "Shidler Undergraduate",
+    "picture": "https://www.dropbox.com/scl/fi/n66eaym3emy249icax1qw/IMG_1451.png?rlkey=cvsxs4rxdc0hm550pm8285ya8&dl=1",
+    "email": "jfang710@hawaii.edu",
+    "phone": "808-758-9343",
+    "website": "https://jhfang1.github.io",
+    "summary": "I am studying for a BBA in MIS and a minor in Japanese at the University of Hawaii. I plan on adding Accounting as another major in the future. I expect to graduate in Fall 2025.",
+    "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jhfang1", "url": "http://github.com/jhfang1" },
+      { "network": "instagram", "username": "jhfang1", "url": "http://instagram.com/jhfang1" }
+    ]
+  },
+  "interests": [
+    { "name": "Rhythm Games"},
+    { "name": "Running"},
+    { "name": "Going for long walks"},
+    { "name": "Manga"},
+    { "name": "Japanese"}
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [ "English", "Cantonese" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Git/GitHub", "Windows" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information Systems (expected Fall, 2025)",
+      "studyType": "B.B.A.",
+      "startDate": "2021-08-27",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+	    "area": "Japanese (expected Fall, 2025)",
+	    "studyType": "Minor",
+	    "startDate": "2023-01-10",
+	    "endDate": "Present",
+	    "Courses": [
+	    ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Honolulu Sushi",
+      "position": "Cashier",
+      "website": "",
+      "startDate": "2022-10-10",
+      "endDate": "Present",
+      "summary": "Cashier for Sushi Restaurant chain Honolulu Sushi",
+      "highlights": [
+        "Serve and greet customers with a friendly attitude, Accurately and reliably count money."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "N/A"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "2021-2022",
+      "awarder": "University of Hawaii",
+      "summary": "The Dean's List recognizes students with a superior academic record, i.e., a minimum current grade point average of 3.5 for 12 or more credits of academic coursework."
+    },
+    {
+      "title": "Lung Doo Benevolent Society Scholarship Recipient",
+      "date": "2022",
+      "awarder": "Lung Doo Benevolent Society",
+      "summary": "Scholarships given out to Students attending Higher Level Education that have parents originally from Zhongshan or the Zhongshan region/Province."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
+
+
