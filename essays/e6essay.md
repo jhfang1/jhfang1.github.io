@@ -4,7 +4,7 @@ type: essay
 title: "E6: Evaluation Guidelines and Class Retrospective BLOG"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-14
-published: false
+published: true
 labels:
   - E6
   - Assignment3 
