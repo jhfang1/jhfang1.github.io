@@ -1,3 +1,5 @@
 # Professional Portfolio
 
-For details on this professional portfolio, please see https://techfolios.github.io.
+Theme for https://techfolios.github.io.
+
+Personal use now....
